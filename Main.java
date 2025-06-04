@@ -7,10 +7,11 @@ public class Main {
         resta resta = new resta();
         resta.resta(20.5,55.3,32.7);
 */
-        OperacionesFaltantes operacionesFaltantes = new OperacionesFaltantes();
-        operacionesFaltantes.multiplicación(33.5,66.6);
+/*        OperacionesFaltantes operacionesFaltantes = new OperacionesFaltantes();
+        operacionesFaltantes.multiplicación(33.5,66.6);*/
 
-
+        Persona persona = new Persona();
+        persona.mayorDeEdad();
     }
 
 }
