@@ -12,6 +12,10 @@ public class Main {
 
         Persona persona = new Persona();
         persona.mayorDeEdad();
+        persona.saludar();
+        persona.comer();
+        persona.dormir();
+        persona.actividadDiaria();
     }
 
 }
